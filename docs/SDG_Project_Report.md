@@ -210,30 +210,46 @@ The following screenshots demonstrate the working system:
 Shows the chatbot landing page and main navigation options.
 
 ### Study Plan Module
+<img width="2226" height="1271" alt="study_plan" src="https://github.com/user-attachments/assets/5656e0bb-0655-493c-9fac-c7c16e18985d" />
+
 
 Displays personalized study plan generation.
 
 ### Learning Roadmap Module
+<img width="2224" height="1268" alt="roadmap" src="https://github.com/user-attachments/assets/686ed858-c349-4aae-8806-ab385225ea01" />
+
 
 Demonstrates structured learning roadmaps.
 
 ### Resource Recommendation Module
+<img width="2229" height="1272" alt="resource" src="https://github.com/user-attachments/assets/174a0bb8-5c95-4914-b4a4-3617c9cf3f00" />
+
 
 Shows recommended learning resources and platforms.
 
 ### Career Guidance Module
+<img width="2223" height="1271" alt="career_guidance" src="https://github.com/user-attachments/assets/65c802eb-edb3-4861-b5c9-003e64637bf0" />
+
 
 Provides career path guidance and required skills.
 
 ### Interview Coach Module
+<img width="2223" height="1267" alt="interview_coach" src="https://github.com/user-attachments/assets/d84d94f2-f9c9-4813-9986-ce44a3de59c5" />
+
 
 Demonstrates interview preparation support.
 
 ### AI Tutor Module
+<img width="2231" height="1269" alt="ai_tutor" src="https://github.com/user-attachments/assets/67571434-b26f-4644-8187-0dc3f8f63f44" />
+<img width="2225" height="1266" alt="ai_tutor2" src="https://github.com/user-attachments/assets/211c0105-32bc-4a4b-b5b1-41006fcf5c85" />
+
 
 Shows interactive AI tutoring functionality.
 
 ### Workflow Architecture
+<img width="1710" height="1200" alt="workflow1" src="https://github.com/user-attachments/assets/c97a2965-47ed-4508-9ade-9ce30bbf3f78" />
+<img width="1643" height="1206" alt="workflow2" src="https://github.com/user-attachments/assets/5845acad-e985-4e7c-b6d6-30958e88827c" />
+
 
 Illustrates the complete chatbot workflow built in Botpress.
 
