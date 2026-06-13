@@ -199,11 +199,13 @@ An AI-powered tutor capable of answering questions related to programming, techn
 
 ---
 
-# 6. Project Screenshots (Proof of Work)
+# 6. Project Screenshots
 
 The following screenshots demonstrate the working system:
 
 ### Homepage
+<img width="2227" height="1267" alt="homepage" src="https://github.com/user-attachments/assets/418364ad-4f3b-4329-b24c-838b3d49e1d9" />
+
 
 Shows the chatbot landing page and main navigation options.
 
